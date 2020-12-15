@@ -45,6 +45,7 @@ This project was developed with the following technologies:
 - [Robo 3T](https://robomongo.org/)
 - [Yarn](https://yarnpkg.com/)
 - [JavaScript](https://www.javascript.com/)
+- [Express](https://expressjs.com/pt-br/)
 
 ## 📑 Módulos abordados na aplicação
 
@@ -70,10 +71,10 @@ This project was developed with the following technologies:
 ### 4. Criando a primeira rota 🚀
 
 - [x] 4.1. Utilizando o **express**
-- [x] 4.2. criar o arquivo `server.js`
-- [x] 4.3. executar `node server.js`
+- [x] 4.2. Criar o arquivo `server.js`
+- [x] 4.3. Executar `node server.js`
 - [x] 4.4. `http://localhost:3001/`
-- [x] 4.5. código teste para o servidor
+- [x] 4.5. Código teste para o servidor
 ````javascript
 const express = require('express');
 
@@ -88,8 +89,8 @@ app.listen(3001);
 ### 5. Utilizando Nodemon 🚀
 - [x] 5.1. `npm install -D nodemon`: instalar o Nodemon no ambiente de desenvolvimento
 - [x] 5.2. ao invés de `node server.js`, usar o `npm run dev` 
-- [x] 5.3. reinicializar o servidor após alguma alteração
-- [x] 5.4. abre : `http://localhost:3001/`
+- [x] 5.3. Reinicializar o servidor após alguma alteração
+- [x] 5.4. Abre : `http://localhost:3001/`
 - [x] 5.5. package.json/dependencies:
 ```json
 "dependencies": {
@@ -160,7 +161,7 @@ mongoose.connect(
 - [x] 10.3. new request - Index - GET : `http://localhost:3001/api/products`
 - [x] 10.4. Manage Environments - base_url : `http://localhost:3001/api`
 
-### 11. Criaçaõ de registro 🚀
+### 11. Criação de registro 🚀
 
 - [x] 11.1. server.js : `app.use(express.json());`
 - [x] 11.2. insomnia - new request - Create - Post - Json
