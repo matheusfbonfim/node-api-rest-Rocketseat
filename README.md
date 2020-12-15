@@ -35,7 +35,7 @@
 
 This project was developed with the following technologies:
 
-- [Node.js][https://nodejs.org/en/]
+- [Node.js](https://nodejs.org/en/)
 - [Insomnia][insomnia]
 - [Dcoker][docker]
 - [Robo 3T][robo3T]
