@@ -31,6 +31,17 @@
   </a>
 </p>
 
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- [Node.js][nodejs]
+- [Insomnia][insomnia]
+- [Dcoker][docker]
+- [Robo 3T][robo3T]
+- [Yarn][yarn]
+- [JavaScript][javascript]
+
 ## 📑 Módulos abordados na aplicação
 
 ### 1. O que é API Rest e NodeJS 🚀
