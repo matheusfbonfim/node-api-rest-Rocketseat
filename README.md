@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="File:Node.js logo.svg - Wikimedia Commons" class="n3VNCb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 50px; height: 50px;">
+    <img alt="File:Node.js logo.svg - Wikimedia Commons" class="n3VNCb" src="/home/matheus/Documents/GitHub/node-api-rest-Rocketseat/.github/insomnia.json" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 50px; height: 50px;">
 </h1>
 
 <h2 align="center">
@@ -45,6 +45,7 @@ This project was developed with the following technologies:
 - [Robo 3T](https://robomongo.org/)
 - [Yarn](https://yarnpkg.com/)
 - [JavaScript](https://www.javascript.com/)
+- [Express](https://expressjs.com/pt-br/)
 
 ## 📑 Módulos abordados na aplicação
 
@@ -70,8 +71,8 @@ This project was developed with the following technologies:
 ### 4. Criando a primeira rota 🚀
 
 - [x] 4.1. Utilizando o **express**
-- [x] 4.2. criar o arquivo `server.js`
-- [x] 4.3. executar `node server.js`
+- [x] 4.2. Criar o arquivo `server.js`
+- [x] 4.3. Executar `node server.js`
 - [x] 4.4. `http://localhost:3001/`
 - [x] 4.5. código teste para o servidor
 ````javascript
@@ -147,11 +148,11 @@ mongoose.connect(
 
 ### 9. Reestruturação de arquivos 🚀
 
-- [x] 9.1. organização, criação, atualização, deleção e listagem de cada produto.
-- [x] 9.2. criar `/src/routes.js`
-- [x] 9.3. funcinando `http://localhost:3001/api`
-- [x] 9.4. criar `/src/controllers/ProductController.js`
-- [x] 9.5. acesso no link : `http://localhost:3001/api/products`
+- [x] 9.1. Organização, criação, atualização, deleção e listagem de cada produto.
+- [x] 9.2. Criar `/src/routes.js`
+- [x] 9.3. Funcionando `http://localhost:3001/api`
+- [x] 9.4. Criar `/src/controllers/ProductController.js`
+- [x] 9.5. Acesso no link : `http://localhost:3001/api/products`
 
 ### 10. Utilizando Insomnia 🚀
 
