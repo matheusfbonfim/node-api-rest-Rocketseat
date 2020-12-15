@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="File:Node.js logo.svg - Wikimedia Commons" class="n3VNCb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 50px; height: 50px; margin: 0px;">
+    <img alt="File:Node.js logo.svg - Wikimedia Commons" class="n3VNCb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/500px-Node.js_logo.svg.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 50px; height: 50px;">
 </h1>
 
 <h2 align="center">
