@@ -41,7 +41,7 @@ This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Insomnia](https://insomnia.rest/download/)
-- [Dcoker](https://www.docker.com/)
+- [Docker](https://www.docker.com/)
 - [Robo 3T](https://robomongo.org/)
 - [Yarn](https://yarnpkg.com/)
 - [JavaScript](https://www.javascript.com/)
