@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="File:Node.js logo.svg - Wikimedia Commons" class="n3VNCb" src="/home/matheus/Documents/GitHub/node-api-rest-Rocketseat/.github/insomnia.json" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 50px; height: 50px;">
+    <img alt="File:Node.js logo.svg - Wikimedia Commons" class="n3VNCb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 50px; height: 50px;">
 </h1>
 
 <h2 align="center">
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://insomnia.rest/run/?label=SemanaOmnistack11&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FSemanaOmnistack11%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+ <a href="https://insomnia.rest/run/?label=node-api-rest-Rocketseat&uri=https%3A%2F%2Fgithub.com%2Fmatheusfbonfim%2Fnode-api-rest-Rocketseat%2Fblob%2Fmaster%2F.github%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ## :rocket: Technologies
@@ -41,7 +41,7 @@ This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Insomnia](https://insomnia.rest/download/)
-- [Docker](https://www.docker.com/)
+- [Dcoker](https://www.docker.com/)
 - [Robo 3T](https://robomongo.org/)
 - [Yarn](https://yarnpkg.com/)
 - [JavaScript](https://www.javascript.com/)
@@ -74,7 +74,7 @@ This project was developed with the following technologies:
 - [x] 4.2. Criar o arquivo `server.js`
 - [x] 4.3. Executar `node server.js`
 - [x] 4.4. `http://localhost:3001/`
-- [x] 4.5. Código teste para o servidor
+- [x] 4.5. código teste para o servidor
 ````javascript
 const express = require('express');
 
@@ -89,8 +89,8 @@ app.listen(3001);
 ### 5. Utilizando Nodemon 🚀
 - [x] 5.1. `npm install -D nodemon`: instalar o Nodemon no ambiente de desenvolvimento
 - [x] 5.2. ao invés de `node server.js`, usar o `npm run dev` 
-- [x] 5.3. Reinicializar o servidor após alguma alteração
-- [x] 5.4. Abre : `http://localhost:3001/`
+- [x] 5.3. reinicializar o servidor após alguma alteração
+- [x] 5.4. abre : `http://localhost:3001/`
 - [x] 5.5. package.json/dependencies:
 ```json
 "dependencies": {
@@ -161,7 +161,7 @@ mongoose.connect(
 - [x] 10.3. new request - Index - GET : `http://localhost:3001/api/products`
 - [x] 10.4. Manage Environments - base_url : `http://localhost:3001/api`
 
-### 11. Criação de registro 🚀
+### 11. Criaçaõ de registro 🚀
 
 - [x] 11.1. server.js : `app.use(express.json());`
 - [x] 11.2. insomnia - new request - Create - Post - Json
