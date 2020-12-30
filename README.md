@@ -3,10 +3,10 @@
 </h1>
 
 <h2 align="center">
-  NodeJS - API Rest - Rocketseat
+  Node.js - API Rest - Rocketseat
 </h2>
 
-<p align="center">Este projeto armazena uma implementação simplória de API Rest presente no módulo do curso de NodeJS da Rocketseat 🎓
+<p align="center">Este projeto armazena uma implementação simplória de API Rest presente no módulo do curso de Node.js da Rocketseat 🎓
 </p>
 
 <p align="center">
